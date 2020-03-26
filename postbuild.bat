@@ -1,0 +1,2 @@
+cmd.exe /c copy ..\bin\ServerMoniter.exe E:\works\code\for_texas_new\product\win32d\server\ServerMoniter.exe /y
+cmd.exe /c copy ..\bin\ServerMoniter.pdb E:\works\code\for_texas_new\product\win32d\server\ServerMoniter.pdb /y
